@@ -1,0 +1,4 @@
+INFO: Mon Jan 10 17:50:19 CST 2022 - Hello
+WARNING: Mon Jan 10 17:50:19 CST 2022 - This is a warning
+ERROR: Mon Jan 10 17:50:19 CST 2022 - Oops , this and error!
+FATAL: Mon Jan 10 17:50:19 CST 2022 - Fatal error
